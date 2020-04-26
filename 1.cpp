@@ -38,4 +38,5 @@ int main()
     int arr[5]={3,4,5,6,7};
     create(arr,5);
     display(first);
+    return 0;
 }
